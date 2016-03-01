@@ -4,11 +4,9 @@ There are three questions within this question: why write about networking, why 
 
 Networking is a topic deserving of a tactical guide because it was born from one of the strangest truths of the world: it always pays to know people. If you're an entrepreneur, you network to build a sales pipeline. If you're a job hunter, you network to get interviews and land offers. If you're trying to make an investment, big or small, you network to do your due diligence.
 
-Introverts need a networking guide because, let's face it, even the etymologies of "introvert" and "network" are antithetical.
+Introverts need a networking guide because, let's face it, even the etymologies of "introvert" and "network" are antithetical. Introverts find networking uncomfortable, salesy, or sleazy.
 
-Introverts find networking uncomfortable, salesy, or sleazy. Rightfully so. A friend doesn't become a friend until you get past the uncomfortable first conversation with a stranger. And of course there's always a chance of rejection when you try to turn strangers into friends.
-
-The joining of networking and introverts is why this guide is tactical. I want to teach you how to network smarter, not harder, and still form a rich network.
+The joining of networking and introverts is why this guide is tactical. I want to teach you how to network smarter, not harder, and get 80% of the results from 20% of the work.
 
 # The tactical networking guide for introverts
 
@@ -18,9 +16,9 @@ A network is an asset which compounds over time. Start building it sooner rather
 
 Be a good friend. Be happy to help other people and ask nothing in return. Always help people who you care about or genuinely wish to succeed.
 
-Stay in touch with your friends, former classmates, and former coworkers. You know that feeling when somebody who hasn't spoken to you in five years asks you for a favor? It's weird. You won't create this feeling for anybody when you're regularly in touch with people.
+Stay in touch with your friends, former classmates, and former coworkers. You know that feeling when somebody who hasn't spoken to you in five years asks you for a favor? It's weird. You won't create this feeling for anybody when you're regularly in touch with people. "Hey friend! Long time no talk. Recently, I've been up to X, Y, and Z. What have you been up to? Miss you!"
 
-Don't be an asshole. Some people don't intend to be assholes, but they just carry the asshole gene. Not being an asshole reduces down to the consequences of your behaviors, not the intentions behind it.
+Don't be an asshole. Some people don't intend to be assholes, but they just carry the asshole gene. Not being an asshole means that the consequences of your behaviors make people's lives better. It does not mean you don't intend to be an asshole.
 
 #### Treat people as the end, not the means to an end
 
@@ -33,9 +31,11 @@ When you meet people, care to get to know them as people. Learn about what they 
 
 Most of finding almost anybody's email address is [here](https://www.distilled.net/blog/miscellaneous/find-almost-anybodys-email-address/).
 
+Watch the video in that link! It's only a few minutes to learn the most vital skill of this entire guide.
+
 Some additional best practices:
 
-- Don't forget to first check if they listed their email explicitly on their LinkedIn or personal site.
+- Don't forget to first check if they listed their email publicly on their LinkedIn or personal site.
 - You can also try guessing their work email in addition to their personal email.
 - Personal gmail addresses are often the same as Twitter, GitHub, or LinkedIn IDs, especially if they use the same ID across multiple social media sites. For instance, if Steve Nash's LinkedIn profile is linkedin.com/in/stephenna and his Twitter is twitter.com/stephenna, then there's a good chance his gmail is stephenna@gmail.com.
 
@@ -55,9 +55,9 @@ Have an explicit call to action. Your call to action is probably a question or a
 
 Include a brief background about yourself. Just 1-2 sentences is great. You can establish commonality, and they'll be more likely to like and reply to you.
 
-Don't ask more than 3 questions. You don't know this person well enough to have earned their attention beyond 3 questions. It's weird to get an email from a stranger, and the stranger just asks a ton of questions. This type of email is burdensome and easy to ignore.
+Don't ask more than 3 questions. You don't know this person well enough to have earned their attention beyond 3 questions. It's weird to get an email from a stranger and the stranger just asks a ton of questions. This type of email is burdensome and easy to ignore.
 
-If you want to just pick somebody's brain on a specific topic, an open-ended question beyond a yes/no question and a favor, I like to ask them a modified version of the net promoter score survey. How would you rate XYZ on a scale from 1-5? What is the reasoning behind your rating?
+If you want to just pick somebody's brain on a specific topic, I suggest asking them a modified version of the net promoter score survey. How would you rate XYZ on a scale between 1-5? What is the reasoning behind your rating?
 
 Use bullet points and numbered lists.
 
@@ -83,12 +83,12 @@ Following up is how you solidify relationships and turn strangers into friends.
 
 # That's it
 
-This tactical guide is now over.
+The tactical networking guide for introverts is now over.
 
 Does it look simple? It is simple.
 
-Does this just look like a guide just for sending email? Yeah, basically. You're an introvert though, right? You prefer email over meeting in person or chatting on the phone, right?
+Does this just look like just a guide for sending email? Yeah, basically. You're an introvert though, right? You prefer email over meeting in person or chatting on the phone, right?
 
-If you have any questions or feedback, I would love to hear from you! As you probably expect, [email](mailto:dillonforrest@gmail.com) works great for me.
+By the way, I'm a product manager and growth hacker based in San Francisco. If you found this guide helpful, or if you have any questions or feedback, or if you'd just like to connect and say hi, I would love to hear from you! As you probably expect, [email](mailto:dillonforrest@gmail.com) works great for me. You can find me on [Twitter](https://twitter.com/dillonforrest) too.
 
-If you'd like to do more reading on non-sleazy networking, I'd recommend checking out Ramit Sethi's [networking advice](http://www.iwillteachyoutoberich.com/blog/ramits-definitive-guide-to-building-your-network-with-scripts/).
+For those interested in more reading on non-sleazy networking, I'd recommend checking out Ramit Sethi's [networking advice](http://www.iwillteachyoutoberich.com/blog/ramits-definitive-guide-to-building-your-network-with-scripts/).
